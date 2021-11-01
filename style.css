@@ -9,6 +9,7 @@
 body{
     font-family: 'Lato', sans-serif;
     background: no-repeat url(./front-end-technical-exercise-assets/photo-couch_2x.jpg);
+    background-attachment: fixed;
     background-size: cover;
 }
 #main-container {
@@ -72,8 +73,7 @@ body{
     color: #000;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    grid-column-gap: 220px;
-    grid-row-gap: 10px;
+    grid-column-gap: 180px;
 }
 #how-it-works {
     position: absolute;
