@@ -8,7 +8,7 @@
 
 body{
     font-family: 'Lato', sans-serif;
-    background: no-repeat url(./front-end-technical-exercise-assets/photo-couch_2x.jpg);
+    background: no-repeat url(./assets/photo-couch.jpg);
     background-attachment: fixed;
     background-size: cover;
 }
