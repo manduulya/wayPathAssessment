@@ -1,3 +1,12 @@
+//Since there was no mobile lay-out provided, I decided to do my own. 
+//
+//There was minimal work to be done on JS, therefore I decided to add styling when the screen is in portrait view. 
+//
+//The requirement was to make the Button hover slight color change to be only on CSS. 
+// 
+//Thank you for taking your time to review this.
+
+
 if (window.innerHeight > window.innerWidth) {
     document.querySelector('#main-header').classList.add('portrait-header');
     document.querySelector('nav').classList.add('portrait-nav');
