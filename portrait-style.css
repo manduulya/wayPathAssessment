@@ -1,0 +1,24 @@
+@media screen and (max-width: 1024px) {
+    .portrait-header{
+        background-color: rgba(34, 34, 34, .65) !important;
+    }
+    .portrait-nav {
+        display: flex !important;
+        justify-self: center !important;
+    }
+    .portrait-img {
+        margin: 0 auto !important;
+    }
+    .portrait-container {
+        width: 70% !important;
+    }
+    .portrait-section {
+        justify-content: center !important;
+        align-items: center !important;
+        text-align: center !important;
+    }
+    .portrait-button {
+        position: absolute !important;
+        bottom: 5rem !important;
+    }
+}
